@@ -456,7 +456,7 @@ padding: 0;
 grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
 background-color: var(--main-bg-color);
 }
-
+ 
 .photo-grid-item {
 display: inline-block;
 width: 100%;
